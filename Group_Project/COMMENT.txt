@@ -1,0 +1,7 @@
+The proposal looks doable, although I will ask the group to also
+concentrate one one more aspect. That is, these supercomputers usually
+are designed with particular kinds of algorithms in mind, and
+parallelizing these can be a challenge. The report should also include
+some description and analysis of how the system architects deal with
+the amount of data and sheer scale of parallel instruction flows in a
+way that yields usable results..
